@@ -1,1 +1,2 @@
-# Laboratorio-di-genomica-comparata
+# Repository di prova
+Questo è qualcosaa del corso
